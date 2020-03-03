@@ -1,0 +1,7 @@
+print('{:20}{}'.format('Name: ' , 'Oscar Sanchez'))
+print('{:20}{}'.format('Age: ' , '18 years'))
+print('{:20}{}'.format('Height: ' , '1.67 m'))
+print('------------------------------------------------------')
+print('{:20}{}'.format('Driver`s License : ' , 'True'))
+print('------------------------------------------------------')
+print('{:20}{}'.format('ID: ' , '193111765'))
